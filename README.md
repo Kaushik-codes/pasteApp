@@ -3,6 +3,7 @@
 A modern and responsive **Paste Management Web Application** built using **React.js** that allows users to create, store, edit, delete, view, and share text snippets (pastes) easily.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Live Demo: https://paste-app-kappa-beryl.vercel.app
 
 ## 🚀 Features
 
